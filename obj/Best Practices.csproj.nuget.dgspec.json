@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\BestPractices\\Best Practices.csproj": {}
+    "c:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best Practices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\BestPractices\\Best Practices.csproj": {
+    "c:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best Practices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\BestPractices\\Best Practices.csproj",
+        "projectUniqueName": "c:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best Practices.csproj",
         "projectName": "Best Practices",
-        "projectPath": "C:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\BestPractices\\Best Practices.csproj",
+        "projectPath": "c:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best Practices.csproj",
         "packagesPath": "C:\\Users\\thisr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\BestPractices\\obj\\",
+        "outputPath": "c:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thisr\\AppData\\Roaming\\NuGet\\NuGet.Config"

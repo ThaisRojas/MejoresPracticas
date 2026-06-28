@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q22BE7M0Lpg=",
+  "dgSpecHash": "04jtNja3jr4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\Best-Practices-Udla-Workshop-master\\BestPractices\\Best Practices.csproj",
+  "projectFilePath": "c:\\Users\\thisr\\Downloads\\Best-Practices-Udla-Workshop-master\\Best Practices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thisr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\thisr\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
