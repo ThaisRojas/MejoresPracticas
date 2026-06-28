@@ -1,0 +1,64 @@
+﻿@model Best_Practices.Models.HomeViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Tipo</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Color</th>
+                <th>Gallons</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vehicle in Model.Vehicles)
+            {
+                <tr>
+                    <td>@vehicle.ID</td>
+                    <td>@vehicle.GetType().Name</td>
+                    <td>@vehicle.Brand</td>
+                    <td>@vehicle.Model</td>
+                    <td>@vehicle.Color</td>
+                    <td>@vehicle.Gas.ToString("N1")</td>
+                    <td>@(vehicle.IsEngineOn() ? "Encendido" : "Apagado")</td>
+                    <td>
+                        @if (vehicle.IsEngineOn())
+                        {
+                            <a asp-action="StopEngine" asp-route-id="@vehicle.ID" class="btn btn-danger">Stop Engine</a>
+                        }
+                        else
+                        {
+                            <a asp-action="StartEngine" asp-route-id="@vehicle.ID" class="btn btn-success">Start Engine</a>
+                        }
+
+                        <a asp-action="AddGas" asp-route-id="@vehicle.ID" class="btn btn-warning">Llenar tanque</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <br />
+
+    <a asp-action="AddMustang" class="btn btn-primary">Add Mustang</a>
+    <a asp-action="AddExplorer" class="btn btn-primary">Add Explorer</a>
+    <a asp-action="AddEscape" class="btn btn-primary">Add Escape</a>
+</div>
