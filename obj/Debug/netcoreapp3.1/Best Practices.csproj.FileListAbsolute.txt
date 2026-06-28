@@ -1,0 +1,41 @@
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.exe
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.deps.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.runtimeconfig.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.runtimeconfig.dev.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.pdb
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.Views.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\netcoreapp3.1\Best Practices.Views.pdb
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.AssemblyInfoInputs.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.AssemblyInfo.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.csproj.CoreCompileInputs.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorAssemblyInfo.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorAssemblyInfo.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.sourcelink.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.TagHelpers.input.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.TagHelpers.output.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorCoreGenerate.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorTargetAssemblyInfo.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.RazorTargetAssemblyInfo.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.Views.pdb
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\Best Practices.StaticWebAssets.Manifest.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\Best Practices.StaticWebAssets.Pack.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Best Practices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Best Practices.props
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Best Practices.props
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Best Practices.props
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.pdb
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Practices.genruntimeconfig.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\netcoreapp3.1\Best Pra.5E0A3705.Up2Date
