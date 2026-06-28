@@ -1,0 +1,64 @@
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\appsettings.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.staticwebassets.runtime.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.staticwebassets.endpoints.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.exe
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.deps.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.runtimeconfig.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.pdb
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.AssemblyInfoInputs.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.AssemblyInfo.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.csproj.CoreCompileInputs.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.RazorAssemblyInfo.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.RazorAssemblyInfo.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.sourcelink.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\scopedcss\bundle\Best Practices.styles.css
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\refint\Best Practices.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.pdb
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.genruntimeconfig.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\ref\Best Practices.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\appsettings.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.staticwebassets.runtime.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.staticwebassets.endpoints.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.exe
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.deps.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.runtimeconfig.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\bin\Debug\net8.0\Best Practices.pdb
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.AssemblyInfoInputs.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.AssemblyInfo.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.csproj.CoreCompileInputs.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.RazorAssemblyInfo.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.RazorAssemblyInfo.cs
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.sourcelink.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\scopedcss\bundle\Best Practices.styles.css
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\refint\Best Practices.dll
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.pdb
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\Best Practices.genruntimeconfig.cache
+C:\Users\thisr\Downloads\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\Best-Practices-Udla-Workshop-master\BestPractices\obj\Debug\net8.0\ref\Best Practices.dll
